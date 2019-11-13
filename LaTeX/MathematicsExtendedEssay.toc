@@ -1,0 +1,10 @@
+\select@language {english}
+\contentsline {section}{Contents}{1}{Doc-Start}
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}
+\contentsline {section}{\numberline {2}Definitions}{4}{section.2}
+\contentsline {section}{\numberline {3}Convexity of House-Shaped Polyhedra}{8}{section.3}
+\contentsline {section}{\numberline {4}Cutting Tree}{9}{section.4}
+\contentsline {section}{\numberline {5}Star Unfolding}{9}{section.5}
+\contentsline {section}{\numberline {6}Cut Locus}{9}{section.6}
+\contentsline {section}{\numberline {7}Conclusion}{9}{section.7}
+\contentsline {section}{References}{10}{section.7}

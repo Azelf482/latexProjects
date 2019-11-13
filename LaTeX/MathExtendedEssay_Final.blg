@@ -1,0 +1,53 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: MathExtendedEssay_Final.aux
+The style file: ieeetr.bst
+Database file #1: EEBibliography.bib
+Warning--entry type for "MEDAX" isn't style-file defined
+--line 11 of file EEBibliography.bib
+Warning--entry type for "ROURKE" isn't style-file defined
+--line 32 of file EEBibliography.bib
+Warning--entry type for "ANGLES" isn't style-file defined
+--line 40 of file EEBibliography.bib
+You've used 7 entries,
+            1876 wiz_defined-function locations,
+            516 strings with 4209 characters,
+and the built_in function-call counts, 954 in all, are:
+= -- 83
+> -- 36
+< -- 0
++ -- 16
+- -- 9
+* -- 40
+:= -- 151
+add.period$ -- 10
+call.type$ -- 7
+change.case$ -- 4
+chr.to.int$ -- 0
+cite$ -- 7
+duplicate$ -- 43
+empty$ -- 123
+format.name$ -- 9
+if$ -- 235
+int.to.chr$ -- 0
+int.to.str$ -- 7
+missing$ -- 6
+newline$ -- 27
+num.names$ -- 7
+pop$ -- 39
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 18
+stack$ -- 0
+substring$ -- 0
+swap$ -- 3
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 7
+width$ -- 8
+write$ -- 58
+(There were 3 warnings)

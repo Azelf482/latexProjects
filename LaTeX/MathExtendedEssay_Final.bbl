@@ -1,0 +1,30 @@
+\begin{thebibliography}{1}
+
+\bibitem{ROURKE}
+B.~Aronov and J.~O'Rourke, ``Nonoverlap of the star unfolding,'' 1992.
+
+\bibitem{FOLDIT:1}
+J.~O'Rourke, {\em How to Fold It: The Mathematics of Linkages, Origami, and
+  Polyhedra}.
+\newblock Cambridge University Press, 2011.
+
+\bibitem{GFALOP:1}
+E.~D. Demaine and J.~O'Rourke, {\em Geometric Folding Algorithms: Linkages,
+  Origami, Polyhedra}.
+\newblock Cambridge University Press, July 2007.
+
+\bibitem{MEDAX}
+J.~Malkevitch, ``Medial axis,'' 2002.
+
+\bibitem{STANFORD}
+R.~Zadeh, ``Cme305: Discrete mathematics and algorithms.'' Course Notes
+  prepared from CME305 mathematics course, 2017.
+
+\bibitem{ANGLES}
+R.~Pierce, ``Internal angles of polygons,'' 2016.
+
+\bibitem{ALEXANDROV}
+A.~D. Alexandrov, {\em Vupyklue Mnogogranniki}.
+\newblock Gosydarstvennoe Izdatelstvo Tehno-Teoreticheskoi Literaturu, 1950.
+
+\end{thebibliography}
